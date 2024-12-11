@@ -1,160 +1,179 @@
 === Nodes of Interest ===
-ID: 88548, Type: Publication, Key: abstract, Value: The equilibrium climate sensitivity (ECS) in the latest version of CNRM climate model, CNRM-CM6-1, and in its high-resolution counterpart, CNRM-CM6-1-HR, is significantly larger than in the previous version (CNRM-CM5.1). The traceability of this climate sensitivity change is investigated using coupled ocean-atmosphere model climate change simulations. These simulations show that the increase in ECS is the result of changes in the atmospheric component. A particular attention is paid to the method used to decompose the equilibrium temperature response difference, by using a linearized decomposition of the individual radiative agents diagnosed by a radiative kernel technique. The climate sensitivity increase is primarily due to the cloud radiative responses, with a predominant contribution of the tropical longwave response (including both feedback and forcing adjustment) and a significant contribution of the extratropical and tropical shortwave feedback changes. A series of stand-alone a...
-ID: 35890, Type: Publication, Key: abstract, Value: Agricultural practices that both support climate change mitigation and facilitate adaptation to a changing climate are critical for reducing greenhouse gas emissions while ensuring food security. This need has led to many claims regarding the potential for a variety of agricultural practices to achieve synergies between mitigation and adaptation in agriculture. However, the evidence for climate change mitigation and adaptation synergies in agriculture remains mixed. To evaluate such claims, we examined the evidence for these synergies by conducting a systematic review of peer-reviewed literature that make claims about outcomes for both climate change adaptation and mitigation in agriculture. Based on 87 articles identified, we show that synergistic outcomes are claimed more frequently than tradeoffs for all practices, yet the evidence was stronger for mixed and conflicting outcomes than for synergies. Indeed, claims of synergistic outcomes may be overstated, because these publications ...
+ID: 60848, Type: Publication, Key: abstract, Value: Climate change will lead to great impacts on flood frequency curve and design floods in the future. However, traditional hydrologic approaches often fail to analyze the flood characteristics within a bivariate framework under changing environment. Moreover, previous studies investigating bivariate characteristics of flood usually do not derive the adaptive flood quantiles. This study assesses the implications of climate change for future bivariate quantiles of flood peak and volume in Ganjiang River basin, China. The outputs of two global climate models (BNU-ESM and BCC-CSM1.1) are statistically downscaled by Daily bias correction (DBC) method and used as inputs of the Xinanjiang hydrological model to simulate streamflow during 1966-2099. Projections for future flood (2020-2099) under Representative Concentration Pathway (RCP) 8.5 scenario are divided into two 40-year horizons (2040s, 2080s) and a comparison is made between these time horizons and the baseline (1966-2005). Univariate f...
 ID: 76606, Type: Publication, Key: abstract, Value: Assessment of actual evapotranspiration (ET) is essential as it controls the exchange of water and heat energy between the atmosphere and land surface. ET also influences the available water resources and assists in the crop water assessment in agricultural areas. This study involves the assessment of spatial distribution of seasonal and annual ET using Surface Energy Balance Algorithm for Land (SEBAL) and provides an estimation of future changes in ET due to land use and climate change for a portion of the Narmada river basin in Central India. Climate change effects on future ET are assessed using the ACCESS1-0 model of CMIP5. A Markov Chain model estimated future land use based on the probability of changes in the past. The ET analysis is carried out for the years 2009–2011. The results indicate variation in the seasonal ET with the changed land use. High ET is observed over forest areas and crop lands, but ET decreases over crop lands after harvest. The overall annual ET is high ove...
-ID: 2323, Type: Dataset, Key: abstract, Value: The National Climate Assessment - Land Data Assimilation System, or NCA-LDAS, is a terrestrial water reanalysis in support of the United States Global Change Research Program's NCA activities. NCA-LDAS features high resolution, gridded, daily time series data products of terrestrial water and energy balance stores, states, and fluxes over the continental U.S., derived from land surface hydrologic modeling with multivariate assimilation of satellite Environmental Data Records (EDRs). The overall goal is to provide the highest quality terrestrial hydrology products that enable improved scientific understanding, adaptation, and management of water and related energy resources during a changing climate.
+ID: 42689, Type: Publication, Key: abstract, Value: Climate change impacts on populations have increased the number of affected people and climate migrants worldwide. Although the nexus between climate change and migration is not monolithic, analyses of individual-level factors at the local scale that reveal the specific drivers of migration are lacking. Here, we show that people are motivated by individual calculations, prioritizing economic and social factors when deciding to migrate. We use data from 53 structured interviews to decompose the assessment of the decision-making process of people deciding to migrate from a region highly vulnerable to climate change, assessing the internal and external migratory potential. The assessment of migration potential evidenced that potential migrants react and make decisions based on perceptions and preferences among economic, social, environmental, and cultural factors when migrating and value these factors differently. Our spatial multi-criteria model reports disaggregation in that people prio...
+ID: 3752, Type: Dataset, Key: abstract, Value: CAL_LID_L3_Tropospheric_APro_CloudySkyOpaque-Standard-V4-20 is the Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observation (CALIPSO) Lidar Level 3 Tropospheric Aerosol Profiles, Cloudy Sky Opaque Data, Standard Version 4-20 data product. This data product was collected using the Cloud-Aerosol Lidar with Orthogonal Polarization (CALIOP) instrument. Data generation and distribution of this V4.20 product ended on July 1, 2020, to support a change in the operating system of the CALIPSO production clusters. The V4.21 data product covers July 1, 2020, to current. 
 
-An overview of NCA-LDAS and its capability for developing climate change indicators are provided in Jasinski et al. (2019).  Details on the data assimilation used in NCA-LDAS are described in Kumar et al. (2019).  Sample mean annual trends are provided in the NCA-LDAS V2.0 README document....
-ID: 293, Type: Dataset, Key: abstract, Value: Goddard’s LiDAR, Hyperspectral, and Thermal Imager (G-LiHT(https://gliht.gsfc.nasa.gov/)) mission utilizes a portable, airborne imaging system that aims to simultaneously map the composition, structure, and function of terrestrial ecosystems. G-LiHT primarily focuses on a broad diversity of forest communities and ecoregions in North America, mapping aerial swaths over the Conterminous United States (CONUS), Alaska, Puerto Rico, and Mexico.
+The CALIPSO lidar level 3 aerosol data product reports monthly mean profiles of aerosol optical properties on a uniform spatial grid. It is intended to be a tropospheric product, so data are only reported below altitudes of 12km. All level 3 parameters are derived from the version 4.20 CALIOP level 2 aerosol profile product and have been quality screened before averaging. The primary quantities reported are vertical pr...
+ID: 4253, Type: Dataset, Key: abstract, Value: CAL_LID_L2_05kmMLay-Standard-V4-21 is the Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observations (CALIPSO) Lidar Level 2 5 km Merged Layer, Version 4-21 data product. Data for this product was collected using the CALIPSO Cloud-Aerosol Lidar with Orthogonal Polarization (CALIOP) instrument. The version of this product was changed from 4-20 to 4-21 to account for a change in the operating system of the CALIPSO production cluster. 
 
-The purpose of G-LiHT’s Canopy Height Model Keyhole Markup Language (KML) data product (GLCHMK) is to provide LiDAR-derived maximum canopy height and canopy variability information to aid in the study and analysis of biodiversity and climate change. Scientists at NASA’s Goddard Space Flight Center began collecting data over locally-defined areas in 2011 and that the collection will continue to grow as aerial campaigns are flown and processed.  
+CALIPSO was launched on April 28, 2006, to study the impact of clouds and aerosols on the Earth's radiation budget and climate. It flies in the international A-Train constellation for coincident Earth observations. The CALIPSO satellite comprises three instruments: CALIOP, Imaging Infrared Radiometer (IIR), and Wide Field Camera (WFC). CALIPSO is a joint satellite mission between NASA and the French Agency CNES (Centre National d'Etudes Spatiales).
+ID: 4329, Type: Dataset, Key: abstract, Value: TOLNet_ECCC_Data is the lidar data collected by the Autonomous Mobile Ozone LIDAR instrument for Tropospheric Experiments (AMOLITE) lidar at Environment and Climate Change Canada (ECCC) in Toronto, Canada as part of the Tropospheric Ozone Lidar Network (TOLNet). Data collection for this product is ongoing.
 
-GLCHMK data are processed as a Google Earth overlay KML file at a nominal 1 meter spatial resolution ...
-ID: 97, Type: Dataset, Key: abstract, Value: Goddard’s LiDAR, Hyperspectral, and Thermal Imager (G-LiHT(https://gliht.gsfc.nasa.gov/)) mission utilizes a portable, airborne imaging system that aims to simultaneously map the composition, structure, and function of terrestrial ecosystems. G-LiHT primarily focuses on a broad diversity of forest communities and ecoregions in North America, mapping aerial swaths over the Conterminous United States (CONUS), Alaska, Puerto Rico, and Mexico.
-
-The purpose of G-LiHT’s Canopy Height Model data product (GLCHMT) is to provide LiDAR-derived maximum canopy height and canopy variability information to aid in the study and analysis of biodiversity and climate change. Scientists at NASA’s Goddard Space Flight Center began collecting data over locally-defined areas in 2011 and that the collection will continue to grow as aerial campaigns are flown and processed.
-
-GLCHMT data are processed as a raster data product (GeoTIFF) at a nominal 1 meter spatial resolution over locally-defined areas. A lo...
-ID: 989, Type: ScienceKeyword, Key: name, Value: ORBITAL CHANGE FORCING
+In the troposphere, ozone is considered a pollutant and is important to understand due to its harmful effects on human health and vegetation. Tropospheric ozone is also significant for its impact on climate as a greenhouse gas. Operating since 2011, TOLNet is an interagency collaboration between NASA, NOAA, and the EPA designed to perform studies of air quality and atmospheric modeling as well as validation and interpretation of satellite observations. TOLNet is currently comprised of six Differential Absorption Lidars (DIAL). Each of the lidars are unique, and some have had a long history of ozone observations prior to joining the network. Five lidars are mobile systems that can ...
+ID: 888, Type: ScienceKeyword, Key: name, Value: COMMON SENSE CLIMATE INDEX
+ID: 802, Type: ScienceKeyword, Key: name, Value: CLIMATE INDICATORS
 ID: 96, Type: ScienceKeyword, Key: name, Value: COUPLED CLIMATE MODELS
-ID: 94, Type: ScienceKeyword, Key: name, Value: CLIMATE CHANGE IMPACT ASSESSMENT MODELS
+ID: 105, Type: Project, Key: longName, Value: Global Change Observation Mission-Water
+ID: 121, Type: Project, Key: longName, Value: Gravity Recovery and Climate Experiment
 ID: 108, Type: Project, Key: longName, Value: National Climate Assessment - Land Data Assimilation System
-ID: 117, Type: Project, Key: longName, Value: Gravity Recovery and Climate Experiment Follow-On
-ID: 26, Type: Project, Key: longName, Value: Distributed Info. Services for Climate/Ocean Prod./Visualizations for Earth Res.
 ID: 166, Type: Platform, Key: longName, Value: NCEP Climate Forecast System Version 2
-ID: 248, Type: Platform, Key: longName, Value: Gravity Recovery and Climate Experiment Follow-On
-ID: 344, Type: Platform, Key: longName, Value: CLIMATE MODELS
+ID: 409, Type: Platform, Key: longName, Value: Climate Hazards Group Infrared Precipitation with Stations
+ID: 173, Type: Platform, Key: longName, Value: Solar Radiation and Climate Experiment
 
 === Subgraph Exploration ===
 
-Exploring Subgraph for Node ID: 88548 (Type: Publication)
-  - ID: 88548, Type: Publication, Value: KrigR-a tool for downloading and statistically downscaling climate reanalysis data
-
-Exploring Subgraph for Node ID: 35890 (Type: Publication)
-  - ID: 35890, Type: Publication, Value: Quantifying Fundamental Vegetation Traits over Europe Using the Sentinel-3 OLCI Catalogue in Google Earth Engine
+Exploring Subgraph for Node ID: 60848 (Type: Publication)
+  - ID: 60848, Type: Publication, Value: Major surface melting over the Ross Ice Shelf part I: Foehn effect
 
 Exploring Subgraph for Node ID: 76606 (Type: Publication)
   - ID: 76606, Type: Publication, Value: Impact of transport model resolution and a priori assumptions on inverse modeling of Swiss F-gas emissions
 
-Exploring Subgraph for Node ID: 2323 (Type: Dataset)
-  - ID: 629, Type: Dataset, Value: HURRICANE AND SEVERE STORM SENTINEL (HS3) WORLD WIDE LIGHTNING LOCATION NETWORK (WWLLN) STORMS V1
-  - ID: 486, Type: Dataset, Value: SPURS-2 Argo float CTD profile data from the E. Tropical Pacific field campaign
-  - ID: 8, Type: Dataset, Value: Saildrone field campaign surface and ADCP measurements for the Atlantic Tradewind Ocean-Atmosphere Mesoscale Interaction Campaign (ATOMIC) project
-  - ID: 46, Type: DataCenter, Value: Goddard Earth Sciences Data and Information Services Center (formerly Goddard DAAC), Global Change Data Center, Earth Sciences Division, Science and Exploration Directorate, Goddard Space Flight Center, NASA
-  - ID: 8, Type: DataCenter, Value: MODIS Adaptive Processing System, Terrestrial Information Systems Laboratory, Earth Sciences Division, Science and Exploration Directorate, Goddard Space Flight Center, NASA
+Exploring Subgraph for Node ID: 42689 (Type: Publication)
+  - ID: 42689, Type: Publication, Value: Spatiotemporal analysis of lightning flash clusters and fatalities between 2000 and 2020 over West Bengal, India
+
+Exploring Subgraph for Node ID: 3752 (Type: Dataset)
+  - ID: 940, Type: Dataset, Value: ER-2 X-Band Doppler Radar (EXRAD) EPOCH
+  - ID: 3752, Type: Dataset, Value: CALIPSO Lidar Level 3 Tropospheric Aerosol Profiles, Cloudy Sky Opaque Data, Standard V4-20
+  - ID: 6, Type: Dataset, Value: GHRSST Level 2P sub-skin Sea Surface Temperature from the Advanced Very High Resolution Radiometer (AVHRR) on Metop satellites (currently Metop-A) (GDS V2) produced by OSI SAF
   - ID: 6, Type: DataCenter, Value: Land Processes Distributed Active Archive Center
-  - ID: 46, Type: Project, Value: Hurricane and Severe Storm Sentinel
-  - ID: 8, Type: Project, Value: National Polar Orbiting Partnership-Joint Polar Satellite System
+  - ID: 54, Type: DataCenter, Value: Atmospheric Science Data Center, Science Directorate, Langley Research Center, NASA
+  - ID: 6, Type: Project, Value: Earth Observing System (EOS), Aqua
+  - ID: 54, Type: Project, Value: East Pacific Origins and Characteristics of Hurricanes
+  - ID: 6, Type: Platform, Value: Meteorological Operational Satellite - A
+  - ID: 54, Type: Platform, Value: R/V Sarmiento De Gamboa (SPAIN)
+  - ID: 54, Type: Instrument, Value: Expendable Bathythermographs
+  - ID: 492, Type: Instrument, Value: Wide Field Camera
+  - ID: 778, Type: Instrument, Value: Paroscientific Pressure Altimeter
+  - ID: 967, Type: ScienceKeyword, Value: BOREHOLES
+  - ID: 500, Type: ScienceKeyword, Value: ICE PELLETS
+  - ID: 492, Type: ScienceKeyword, Value: ACID RAIN
+  - ID: 497, Type: Publication, Value: Surface Mass Balance Controlled by Local Surface Slope in Inland Antarctica: Implications for IceSheet Mass Balance and Oldest Ice Delineation in Dome Fuji
+  - ID: 54, Type: Publication, Value: Radiative forcing under mixed aerosol conditions
+  - ID: 500, Type: Publication, Value: The implications of maintaining Earth's hemispheric albedo symmetry for
+
+Exploring Subgraph for Node ID: 4253 (Type: Dataset)
+  - ID: 4253, Type: Dataset, Value: CALIPSO Lidar Level 2 5 km Merged Layer, V4-21
+  - ID: 6, Type: Dataset, Value: GHRSST Level 2P sub-skin Sea Surface Temperature from the Advanced Very High Resolution Radiometer (AVHRR) on Metop satellites (currently Metop-A) (GDS V2) produced by OSI SAF
+  - ID: 54, Type: Dataset, Value: ASTER Level 1 precision terrain corrected registered at-sensor radiance V003
+  - ID: 54, Type: DataCenter, Value: Atmospheric Science Data Center, Science Directorate, Langley Research Center, NASA
+  - ID: 6, Type: DataCenter, Value: Land Processes Distributed Active Archive Center
+  - ID: 54, Type: Project, Value: East Pacific Origins and Characteristics of Hurricanes
   - ID: 6, Type: Project, Value: Earth Observing System (EOS), Aqua
   - ID: 6, Type: Platform, Value: Meteorological Operational Satellite - A
-  - ID: 8, Type: Platform, Value: Tropical Rainfall Measuring Mission
-  - ID: 46, Type: Platform, Value: ARGO profiler floats
-  - ID: 478, Type: Instrument, Value: CLOUD LIQUID WATER PROBE
-  - ID: 486, Type: Instrument, Value: Tropospheric Emissions: Monitoring of Pollution
-  - ID: 8, Type: Instrument, Value: Conductivity, Temperature, Depth
-  - ID: 897, Type: ScienceKeyword, Value: BREEDING PRODUCTIVITY
-  - ID: 1102, Type: ScienceKeyword, Value: CONSERVATION
-  - ID: 8, Type: ScienceKeyword, Value: STATISTICAL APPLICATIONS
-  - ID: 939, Type: Publication, Value: CAMELS-GB: Hydrometeorological time series and landscape attributes for 671 catchments in Great Britain
-  - ID: 1005, Type: Publication, Value: Projections of land use changes under the plant functional type classification in different SSP-RCP scenarios in China
-  - ID: 629, Type: Publication, Value: Warming, increase in precipitation, and irrigation enhance greening in High Mountain Asia
+  - ID: 54, Type: Platform, Value: R/V Sarmiento De Gamboa (SPAIN)
+  - ID: 500, Type: Instrument, Value: Airborne Raman Ozone, Temperature, and Aerosol Lidar
+  - ID: 778, Type: Instrument, Value: Paroscientific Pressure Altimeter
+  - ID: 54, Type: Instrument, Value: Expendable Bathythermographs
+  - ID: 500, Type: ScienceKeyword, Value: ICE PELLETS
+  - ID: 54, Type: ScienceKeyword, Value: MARINE ADVISORIES
+  - ID: 6, Type: ScienceKeyword, Value: GLOBAL POSITIONING SYSTEMS
+  - ID: 778, Type: Publication, Value: Modeling of the Influence of Sea Ice Cycle and Langmuir Circulation on the Upper Ocean Mixed Layer Depth and Freshwater Distribution at the West Antarctic Peninsula
+  - ID: 967, Type: Publication, Value: Estimation of flood-damaged cropland area using a convolutional neural network
+  - ID: 1107, Type: Publication, Value: Mapping Bioclimatic Indices by Downscaling MODIS Land Surface
 
-Exploring Subgraph for Node ID: 293 (Type: Dataset)
-  - ID: 2039, Type: Dataset, Value: AIRS/Aqua L3 8-day CO2 in the free troposphere (AIRS-only) 2.5 degrees x 2 degrees V005 (AIRS3C28) at GES DISC
-  - ID: 401, Type: Dataset, Value: MODIS/Aqua Vegetation Indices Monthly L3 Global 1km SIN Grid V061
-  - ID: 344, Type: Dataset, Value: MODIS/Terra+Aqua BRDF/Albedo Parameter3 Band4 Daily L3 Global 30ArcSec CMG V061
+Exploring Subgraph for Node ID: 4329 (Type: Dataset)
+  - ID: 497, Type: Dataset, Value: SPURS-1  shipboard Acoustic Doppler Current Profiler data for N. Atlantic  Endeavor and Knorr cruises
+  - ID: 967, Type: Dataset, Value: Flight Reports EPOCH
+  - ID: 4329, Type: Dataset, Value: TOLNet Environment and Climate Change Canada Data
+  - ID: 6, Type: DataCenter, Value: Land Processes Distributed Active Archive Center
   - ID: 54, Type: DataCenter, Value: Atmospheric Science Data Center, Science Directorate, Langley Research Center, NASA
-  - ID: 79, Type: DataCenter, Value: N/A
-  - ID: 171, Type: DataCenter, Value: N/A
-  - ID: 321, Type: Project, Value: Operation IceBridge AK/Arctic Ocean 2014
-  - ID: 249, Type: Project, Value: GROGG University of Texas, Greenland 2014
-  - ID: 73, Type: Project, Value: Earth Observing System
-  - ID: 319, Type: Platform, Value: Portable Automated Mesonet
-  - ID: 84, Type: Platform, Value: Defense Meteorological Satellite Program-F18
-  - ID: 354, Type: Platform, Value: Research Vessel Mirai
-  - ID: 17, Type: Instrument, Value: Advanced Along-Track Scanning Radiometer
-  - ID: 181, Type: Instrument, Value: Hurricane Imaging Radiometer
-  - ID: 61, Type: Instrument, Value: Scanning Multichannel Microwave Radiometer
-  - ID: 388, Type: ScienceKeyword, Value: HEAT FLUX
-  - ID: 239, Type: ScienceKeyword, Value: NITROGEN
-  - ID: 1291, Type: ScienceKeyword, Value: NITRIC ACID
-  - ID: 111, Type: Publication, Value: Carbon Concentrating Mechanisms in Eukaryotic Marine Phytoplankton
-  - ID: 2983, Type: Publication, Value: An in situ-based analysis of the relationship between land surface skin and screen-level air temperatures
-  - ID: 6311, Type: Publication, Value: Deforestation scenarios show the importance of secondary forest for meeting Panamas carbon goals
+  - ID: 6, Type: Project, Value: Earth Observing System (EOS), Aqua
+  - ID: 54, Type: Project, Value: East Pacific Origins and Characteristics of Hurricanes
+  - ID: 6, Type: Platform, Value: Meteorological Operational Satellite - A
+  - ID: 54, Type: Platform, Value: R/V Sarmiento De Gamboa (SPAIN)
+  - ID: 54, Type: Instrument, Value: Expendable Bathythermographs
+  - ID: 6, Type: Instrument, Value: Heitronics Wing IR Pyrometer
+  - ID: 500, Type: Instrument, Value: Airborne Raman Ozone, Temperature, and Aerosol Lidar
+  - ID: 967, Type: ScienceKeyword, Value: BOREHOLES
+  - ID: 497, Type: ScienceKeyword, Value: PRECIPITATION RATE
+  - ID: 500, Type: ScienceKeyword, Value: ICE PELLETS
+  - ID: 1107, Type: Publication, Value: Mapping Bioclimatic Indices by Downscaling MODIS Land Surface
+  - ID: 500, Type: Publication, Value: The implications of maintaining Earth's hemispheric albedo symmetry for
+  - ID: 967, Type: Publication, Value: Estimation of flood-damaged cropland area using a convolutional neural network
 
-Exploring Subgraph for Node ID: 97 (Type: Dataset)
-  - ID: 4473, Type: Dataset, Value: CERES Monthly Daytime Mean Regionally Averaged NOAA-20 TOA Fluxes and Associated Cloud Properties Stratified by Optical Depth and Effective Pressure Edition1B
-  - ID: 196, Type: Dataset, Value: MODIS/Terra+Aqua BRDF/Albedo Parameter3 Band7 Daily L3 Global 30ArcSec CMG V061
-  - ID: 2966, Type: Dataset, Value: AIRS/Aqua L2G Precipitation Estimate (AIRS-only) V006 (AIRG2SSD_IRonly) at GES DISC
-  - ID: 181, Type: DataCenter, Value: N/A
-  - ID: 20, Type: DataCenter, Value: Vegetation Index and Phenology Laboratory, Department of Electrical and Computer Engineering, University of Arizona
-  - ID: 72, Type: DataCenter, Value: College of Forest Resources, University of Washington
-  - ID: 259, Type: Project, Value: Soil Moisture Active Passive Validation Experiment 2016 Manitoba
-  - ID: 109, Type: Project, Value: Gravity Recovery and Climate Experiment Data Assimilation for Drought Monitoring
-  - ID: 97, Type: Project, Value: Television Infrared Observation Satellite
-  - ID: 154, Type: Platform, Value: Earth Observing System, Aura
-  - ID: 42, Type: Platform, Value: 
-  - ID: 317, Type: Platform, Value: CONVAIR CV-580
-  - ID: 196, Type: Instrument, Value: Millimeter Imaging Radiometer
-  - ID: 122, Type: Instrument, Value: Visual Observations
-  - ID: 314, Type: Instrument, Value: Medium Resolution Infrared Radiometer
-  - ID: 1293, Type: ScienceKeyword, Value: OCEAN TRACERS
-  - ID: 311, Type: ScienceKeyword, Value: ATMOSPHERIC CARBON MONOXIDE
-  - ID: 254, Type: ScienceKeyword, Value: SOIL GAS/AIR
-  - ID: 2878, Type: Publication, Value: Performance evaluation of IMERG products based on the extremely heavy
-  - ID: 381, Type: Publication, Value: Multiple sampling methods to develop indices of mid-trophic levels
-  - ID: 1255, Type: Publication, Value: Detection of geothermal anomalies using Landsat 8 TIRS data in Tulu Moye geothermal prospect, Main Ethiopian Rift
+Exploring Subgraph for Node ID: 888 (Type: ScienceKeyword)
+  - ID: 803, Type: Dataset, Value: GPM GROUND VALIDATION METEOROLOGICAL TOWER ENVIRONMENT CANADA GCPEX V1
+  - ID: 888, Type: Dataset, Value: KIND NEXRAD IMPACTS V1
+  - ID: 887, Type: Dataset, Value: High-Impact Weather Assessment Toolkit (HIWAT)
+  - ID: 803, Type: Instrument, Value: University of Alaska Fairbanks Lidar Profiler
+  - ID: 803, Type: ScienceKeyword, Value: ATMOSPHERIC/OCEAN INDICATORS
+  - ID: 887, Type: ScienceKeyword, Value: TEMPERATURE INDICES
+  - ID: 888, Type: ScienceKeyword, Value: COMMON SENSE CLIMATE INDEX
+  - ID: 803, Type: Publication, Value: Circadian Rhythm and Neurotransmitters Are Potential Pathways through
+  - ID: 887, Type: Publication, Value: Non-deforestation drivers of fires are increasingly important sources of aerosol and carbon dioxide emissions across Amazonia
+  - ID: 888, Type: Publication, Value: Toward Optimization of Rheology in Sea Ice Models through Data
 
-Exploring Subgraph for Node ID: 989 (Type: ScienceKeyword)
-  - ID: 945, Type: Dataset, Value: RSS SSM/I OCEAN PRODUCT GRIDS 3-DAY AVERAGE FROM DMSP F8 NETCDF V7
-  - ID: 987, Type: Dataset, Value: LIS/OTD 0.5 Degree High Resolution Monthly Climatology (HRMC) V2.3.2015
-  - ID: 989, Type: Dataset, Value: CAMEX-4 NOAA WP-3D CLOUD PHYSICS V1
-  - ID: 987, Type: ScienceKeyword, Value: PALEOCLIMATE FORCING
-  - ID: 989, Type: ScienceKeyword, Value: ORBITAL CHANGE FORCING
-  - ID: 945, Type: ScienceKeyword, Value: PALEOCLIMATE INDICATORS
-  - ID: 987, Type: Publication, Value: Assessment of Soil Moisture Anomaly Sensitivity to Detect Drought
-  - ID: 945, Type: Publication, Value: Correlation Analysis of CO2 Concentration Based on DMSP-OLS and
-  - ID: 989, Type: Publication, Value: PrecipGradeNet: A New Paradigm and Model for Precipitation Retrieval
+Exploring Subgraph for Node ID: 802 (Type: ScienceKeyword)
+  - ID: 5319, Type: Dataset, Value: SMAPVEX12 Core-Based In Situ Soil Moisture Data for Agricultural Area V001
+  - ID: 2685, Type: Dataset, Value: FLDAS Noah Land Surface Model L4 Global Monthly 0.1 x 0.1 degree (GDAS and CHIRPS-PRELIM) V001 (FLDAS_NOAH01_CP_GL_M) at GES DISC
+  - ID: 5704, Type: Dataset, Value: SMEX03 Surface and Soil Temperature Measurements: Alabama, Version 1
+  - ID: 75, Type: DataCenter, Value: National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce
+  - ID: 70, Type: DataCenter, Value: Danish Meteorological Institute, Center for Ocean and Ice
+  - ID: 129, Type: DataCenter, Value: N/A
+  - ID: 250, Type: Project, Value: GROGG University of Texas, Greenland 2015
+  - ID: 275, Type: Project, Value: SnowEx multi-year airborne snow campaign
+  - ID: 123, Type: Project, Value: Quick Scatterometer
+  - ID: 250, Type: Platform, Value: Satellite with Argos and AltiKa
+  - ID: 176, Type: Platform, Value: Hybrid of NCEP/NCAR Reanalysis Model and Observations by Princeton University
+  - ID: 182, Type: Platform, Value: Orbiting Carbon Observatory-2
+  - ID: 271, Type: Instrument, Value: TOPEX MICROWAVE RADIOMETER
+  - ID: 164, Type: Instrument, Value: Conical Scanning Millimeter-wave Imaging Radiometer
+  - ID: 176, Type: Instrument, Value: MODIS Airborne Simulator
+  - ID: 887, Type: ScienceKeyword, Value: TEMPERATURE INDICES
+  - ID: 281, Type: ScienceKeyword, Value: AEROSOL RADIANCE
+  - ID: 128, Type: ScienceKeyword, Value: WEB SERVICES
+  - ID: 5843, Type: Publication, Value: The CALIPSO version 4.5 stratospheric aerosol subtyping algorithm
+  - ID: 2526, Type: Publication, Value: Feasibility of reintroducing grassland megaherbivores, the greater one-horned rhinoceros, and swamp buffalo within their historic global range
+  - ID: 2865, Type: Publication, Value: Exploring the land use and land cover change in the period 2005-2020 in
 
 Exploring Subgraph for Node ID: 96 (Type: ScienceKeyword)
-  - ID: 3230, Type: Dataset, Value: ECCO Sea-Ice Salt Plume Fluxes - Monthly Mean llc90 Grid (Version 4 Release 4)
-  - ID: 3410, Type: Dataset, Value: ECCO Ocean Velocity - Monthly Mean 0.5 Degree (Version 4 Release 4)
-  - ID: 3330, Type: Dataset, Value: ECCO Ocean Three-Dimensional Potential Temperature Fluxes - Monthly Mean llc90 Grid (Version 4 Release 4)
+  - ID: 3422, Type: Dataset, Value: ECCO Ocean Three-Dimensional Salinity Fluxes - Daily Mean llc90 Grid (Version 4 Release 4)
+  - ID: 3220, Type: Dataset, Value: ECCO Sea-Ice Velocity - Monthly Mean llc90 Grid (Version 4 Release 4)
+  - ID: 5347, Type: Dataset, Value: Soil Moisture Active Passive (SMAP) L4 Soil Moisture Ancillary Run Time Input Parameters V001
   - ID: 90, Type: DataCenter, Value: N/A
   - ID: 96, Type: DataCenter, Value: N/A
-  - ID: 90, Type: Project, Value: Cloud Absorption Radiometer
   - ID: 96, Type: Project, Value: NASA Energy and Water Study
-  - ID: 96, Type: Platform, Value: 
+  - ID: 90, Type: Project, Value: Cloud Absorption Radiometer
   - ID: 90, Type: Platform, Value: FIXED OBSERVATION STATIONS
+  - ID: 96, Type: Platform, Value: 
   - ID: 90, Type: Instrument, Value: Inertial Navigation System
   - ID: 96, Type: Instrument, Value: Forward Scattering Spectrometer Probe
+  - ID: 90, Type: ScienceKeyword, Value: MODELS
   - ID: 96, Type: ScienceKeyword, Value: COUPLED CLIMATE MODELS
-  - ID: 90, Type: ScienceKeyword, Value: MODELS
-  - ID: 5405, Type: Publication, Value: Interrelated ecological impacts of climate change on an apex predator
-  - ID: 5410, Type: Publication, Value: Anthropogenic effect on wetland biodiversity in Lake Tana Region: A case of Infranz Wetland, Northwestern Ethiopia
-  - ID: 3564, Type: Publication, Value: SWAT_DA: Sequential Multivariate Data Assimilation-Oriented
+  - ID: 3561, Type: Publication, Value: Microfossil and strontium isotope chronology used to identify the controls of Miocene reefs and related facies in NW Cyprus
+  - ID: 5188, Type: Publication, Value: Hydro-climatic changes and their impacts on vegetation in Xinjiang
+  - ID: 3230, Type: Publication, Value: Frequency and distribution of winter melt events from passive microwave satellite data in the pan-Arctic, 1988–2013
 
-Exploring Subgraph for Node ID: 94 (Type: ScienceKeyword)
-  - ID: 3358, Type: Dataset, Value: ECCO Ocean Density, Stratification, and Hydrostatic Pressure - Daily Mean llc90 Grid (Version 4 Release 4)
-  - ID: 3230, Type: Dataset, Value: ECCO Sea-Ice Salt Plume Fluxes - Monthly Mean llc90 Grid (Version 4 Release 4)
-  - ID: 3578, Type: Dataset, Value: ECCO Ocean Mixed Layer Depth - Monthly Mean llc90 Grid (Version 4 Release 4)
-  - ID: 94, Type: DataCenter, Value: N/A
-  - ID: 90, Type: DataCenter, Value: N/A
-  - ID: 90, Type: Project, Value: Cloud Absorption Radiometer
-  - ID: 94, Type: Project, Value: Copernicus Sentinel-5 Precursor
-  - ID: 90, Type: Platform, Value: FIXED OBSERVATION STATIONS
-  - ID: 94, Type: Platform, Value: National Oceanic & Atmospheric Administration-18
-  - ID: 94, Type: Instrument, Value: THERMISTORS
-  - ID: 90, Type: Instrument, Value: Inertial Navigation System
-  - ID: 94, Type: ScienceKeyword, Value: CLIMATE CHANGE IMPACT ASSESSMENT MODELS
-  - ID: 90, Type: ScienceKeyword, Value: MODELS
-  - ID: 3397, Type: Publication, Value: Convergence of atmospheric and North Atlantic carbon dioxide trends on multidecadal timescales
-  - ID: 3529, Type: Publication, Value: Increased flooded area and exposure in the White Volta river basin in Western Africa, identified from multi-source remote sensing data
-  - ID: 3222, Type: Publication, Value: Internal consistency of the inorganic carbon system in the Arctic Ocean
+Exploring Subgraph for Node ID: 105 (Type: Project)
+  - ID: 2689, Type: Dataset, Value: AMSR2/GCOM-W1 downscaled surface soil moisture (LPRM) L2B V001 (LPRM_AMSR2_DS_SOILM2) at GES DISC
+  - ID: 2245, Type: Dataset, Value: AMSR2/GCOM-W1 surface soil moisture (LPRM) L3 1 day 25 km x 25 km ascending V001 (LPRM_AMSR2_A_SOILM3) at GES DISC
+  - ID: 2347, Type: Dataset, Value: AMSR2/GCOM-W1 surface soil moisture (LPRM) L3 1 day 25 km x 25 km descending V001 (LPRM_AMSR2_D_SOILM3) at GES DISC
+  - ID: 105, Type: DataCenter, Value: N/A
+  - ID: 105, Type: Project, Value: Global Change Observation Mission-Water
+  - ID: 105, Type: Platform, Value: Cloud Resolving Model
+  - ID: 105, Type: Instrument, Value: 
+  - ID: 105, Type: ScienceKeyword, Value: PHENOMENOLOGICAL MODELS
+  - ID: 2844, Type: Publication, Value: Estimates of black carbon emissions in the western United States using the GEOS-Chem adjoint model
+  - ID: 2689, Type: Publication, Value: Continental-scale land surface phenology from harmonized Landsat 8 and Sentinel-2 imagery
+  - ID: 2877, Type: Publication, Value: Two-stage GIS-MCDM based algorithm to identify plausible regions at micro level to install wind farms: A case study of India
+
+Exploring Subgraph for Node ID: 121 (Type: Project)
+  - ID: 5918, Type: Dataset, Value: GRACE OCEAN BOTTOM GEOPOTENTIAL COEFFICIENTS CSR RELEASE 6.0 GAD
+  - ID: 3200, Type: Dataset, Value: GRACE FIELD GEOPOTENTIAL COEFFICIENTS JPL RELEASE 6.0
+  - ID: 5917, Type: Dataset, Value: GRACE NON-TIDAL ATMOSPHERE AND OCEAN GEOPOTENTIAL COEFFICIENTS CSR RELEASE 6.0 GAC
+  - ID: 121, Type: DataCenter, Value: N/A
+  - ID: 121, Type: Project, Value: Gravity Recovery and Climate Experiment
+  - ID: 121, Type: Platform, Value: 
+  - ID: 121, Type: Instrument, Value: 
+  - ID: 121, Type: ScienceKeyword, Value: ASK-A METEOROLOGIST
+  - ID: 3203, Type: Publication, Value: Increasing taxonomic diversity and spatial resolution clarifies opportunities for protecting US imperiled species
+  - ID: 3200, Type: Publication, Value: Persistent artifacts in the NSIDC ice motion data set and their implications for analysis
+  - ID: 3415, Type: Publication, Value: Changes in Central Asia's water tower: past, present and future
 
 Exploring Subgraph for Node ID: 108 (Type: Project)
-  - ID: 2323, Type: Dataset, Value: NCA-LDAS Noah-3.3 Land Surface Model L4 Daily 0.125 x 0.125 degree V2.0 (NCALDAS_NOAH0125_D) at GES DISC
   - ID: 108, Type: Dataset, Value: Vegetation Index and Phenology (VIP) Phenology NDVI Yearly Global 0.05Deg CMG V004
+  - ID: 2323, Type: Dataset, Value: NCA-LDAS Noah-3.3 Land Surface Model L4 Daily 0.125 x 0.125 degree V2.0 (NCALDAS_NOAH0125_D) at GES DISC
   - ID: 2424, Type: Dataset, Value: NCA-LDAS Noah-3.3 Land Surface Model L4 Trends 0.125 x 0.125 degree V2.0 (NCALDAS_NOAH0125_Trends) at GES DISC
   - ID: 108, Type: DataCenter, Value: N/A
   - ID: 108, Type: Project, Value: National Climate Assessment - Land Data Assimilation System
@@ -162,104 +181,74 @@ Exploring Subgraph for Node ID: 108 (Type: Project)
   - ID: 108, Type: Instrument, Value: Optical Transient Detector
   - ID: 108, Type: ScienceKeyword, Value: SOCIAL AND ECONOMIC MODELS
   - ID: 2323, Type: Publication, Value: Monthly hydroclimatology of the continental United States
-  - ID: 108, Type: Publication, Value: Air-sea CO2 exchange process in the southern Yellow Sea in April of 2011, and June, July, October of 2012
   - ID: 2424, Type: Publication, Value: Human appropriated net primary productivity as a metric for land use
-
-Exploring Subgraph for Node ID: 117 (Type: Project)
-  - ID: 3197, Type: Dataset, Value: TELLUS GRACE Level-3 1.0-degree Glacial Isostatic Adjustment v1.0 datasets produced by JPL
-  - ID: 3181, Type: Dataset, Value: GRACE-FO Level-1B Release version 4.0 from JPL in ASCII
-  - ID: 3409, Type: Dataset, Value: Tellus Level-4 Antarctica Mass Anomaly Time Series from JPL GRACE/GRACE-FO Mascon CRI Filtered Release 06.1 version 03
-  - ID: 117, Type: DataCenter, Value: N/A
-  - ID: 117, Type: Project, Value: Gravity Recovery and Climate Experiment Follow-On
-  - ID: 117, Type: Platform, Value: Mesoscale Meteorological Network
-  - ID: 117, Type: Instrument, Value: Micro Rain Radar
-  - ID: 117, Type: ScienceKeyword, Value: ASK-A BIOLOGIST
-  - ID: 3409, Type: Publication, Value: Biomass burning aerosol transport and vertical distribution over the South AfricanAtlantic region
-  - ID: 3521, Type: Publication, Value: Spatially explicit risk mapping reveals direct anthropogenic impacts on
-  - ID: 5919, Type: Publication, Value: Global-scale river flood vulnerability in the last 50 years
-
-Exploring Subgraph for Node ID: 26 (Type: Project)
-  - ID: 539, Type: Dataset, Value: REGIONAL AIR-SEA INTERACTION (RASI) GAP WIND AND COASTAL UPWELLING EVENTS CLIMATOLOGY GULF OF TEHUANTEPEC, MEXICO V1
-  - ID: 892, Type: Dataset, Value: RSS SSMIS OCEAN PRODUCT GRIDS MONTHLY AVERAGE FROM DMSP F17 NETCDF V7
-  - ID: 727, Type: Dataset, Value: RSS SSM/I OCEAN PRODUCT GRIDS WEEKLY AVERAGE FROM DMSP F13 NETCDF V7
-  - ID: 26, Type: DataCenter, Value: ASTER, JET PROPULSION LABORATORY, NASA
-  - ID: 26, Type: Project, Value: Distributed Info. Services for Climate/Ocean Prod./Visualizations for Earth Res.
-  - ID: 26, Type: Platform, Value: Goddard's LiDAR, Hyperspectral and Thermal (G-LiHT) airborne imaging system
-  - ID: 727, Type: Instrument, Value: 
-  - ID: 610, Type: Instrument, Value: TE525 Tipping Bucket Rain Gauge
-  - ID: 555, Type: Instrument, Value: Dual-Beam UV-Absorption Ozone Photometer
-  - ID: 576, Type: ScienceKeyword, Value: TUNICATES
-  - ID: 26, Type: ScienceKeyword, Value: LESSON PLANS
-  - ID: 611, Type: ScienceKeyword, Value: STURGEONS/PADDLEFISHES
-  - ID: 757, Type: Publication, Value: Effects of meteorological conditions on sulfur dioxide air pollution in the North China plain during winters of 2006–2015
-  - ID: 919, Type: Publication, Value: Regionalising rainfall-runoff modelling for predicting daily runoff: Comparing gridded spatial proximity and gridded integrated similarity approaches against their lumped counterparts
-  - ID: 534, Type: Publication, Value: Validating and improving the uncertainty assumptions for the
+  - ID: 108, Type: Publication, Value: Air-sea CO2 exchange process in the southern Yellow Sea in April of 2011, and June, July, October of 2012
 
 Exploring Subgraph for Node ID: 166 (Type: Platform)
   - ID: 834, Type: Dataset, Value: GPM GROUND VALIDATION UND CITATION NAVIGATION DATA MC3E V1
-  - ID: 735, Type: Dataset, Value: GPM GROUND VALIDATION GCPEX SNOW MICROPHYSICS CASE STUDY V1
-  - ID: 1095, Type: Dataset, Value: GPM Ground Validation NCAR Particle Probes IPHEx
-  - ID: 85, Type: DataCenter, Value: N/A
+  - ID: 697, Type: Dataset, Value: GPM GROUND VALIDATION CAMPAIGN REPORTS IPHEx V1
+  - ID: 2467, Type: Dataset, Value: Carbon Monitoring System Lake Michigan Primary Production Monthly V1 (CMSLakeMichiganPPM) at GES DISC
   - ID: 81, Type: DataCenter, Value: N/A
-  - ID: 69, Type: DataCenter, Value: Canadian Meteorological Centre, Meteorological Service of Canada, Environment Canada
+  - ID: 166, Type: DataCenter, Value: N/A
+  - ID: 85, Type: DataCenter, Value: N/A
+  - ID: 85, Type: Project, Value: North American Land Data Assimilation System
   - ID: 69, Type: Project, Value: Earth Science Information Partners Program
   - ID: 81, Type: Project, Value: The second Modern-Era Retrospective analysis for Research and Applications
-  - ID: 85, Type: Project, Value: North American Land Data Assimilation System
-  - ID: 81, Type: Platform, Value: Ground-based Observations
-  - ID: 166, Type: Platform, Value: NCEP Climate Forecast System Version 2
   - ID: 335, Type: Platform, Value: Research Vessel Thomas G. Thompson
-  - ID: 85, Type: Instrument, Value: 
+  - ID: 81, Type: Platform, Value: Ground-based Observations
+  - ID: 69, Type: Platform, Value: Ground Stations
+  - ID: 834, Type: Instrument, Value: Airborne SAR/Interferometric Radar System
+  - ID: 690, Type: Instrument, Value: Fast In-situ Stratospheric Hygrometer
   - ID: 819, Type: Instrument, Value: LDEO-Gravimeter-Suite
-  - ID: 607, Type: Instrument, Value: Differential Optical Absorption Spectrometers
-  - ID: 690, Type: ScienceKeyword, Value: ECOSYSTEM FUNCTIONS
-  - ID: 69, Type: ScienceKeyword, Value: SOLAR WINDS
-  - ID: 548, Type: ScienceKeyword, Value: ENTOPROCTS
-  - ID: 85, Type: Publication, Value: Improving the Retrieval of Forest Canopy Chlorophyll Content From MERIS
-  - ID: 2029, Type: Publication, Value: Global mortality from outdoor fine particle pollution generated by
-  - ID: 166, Type: Publication, Value: Agricultural cropland extent and areas of South Asia derived using
-
-Exploring Subgraph for Node ID: 248 (Type: Platform)
-  - ID: 3941, Type: Dataset, Value: CERES and GEO-Enhanced TOA, Within-Atmosphere and Surface Fluxes, Clouds and Aerosols Monthly Terra-Aqua Edition4A
-  - ID: 65, Type: Dataset, Value: MEaSUREs Vegetation Continuous Fields (VCF) Yearly Global 0.05 Deg V001
-  - ID: 3643, Type: Dataset, Value: MISR Level 3 Component Global Land Product covering a year V004
-  - ID: 108, Type: DataCenter, Value: N/A
-  - ID: 99, Type: DataCenter, Value: N/A
-  - ID: 100, Type: DataCenter, Value: N/A
-  - ID: 191, Type: Project, Value: Intercontinental Chemical Transport Experiment - Phase B (INTEX-B)
-  - ID: 308, Type: Project, Value: Pre-IceBridge NASA ATM Suite Antarctica 2005
-  - ID: 122, Type: Project, Value: MEaSUREs HOMaGE: Heat and Ocean Mass from Gravity ESDR
-  - ID: 240, Type: Platform, Value: Biology Light Iron Nutrient and Gas model
-  - ID: 179, Type: Platform, Value: Convair C-131 Samaritan
-  - ID: 223, Type: Platform, Value: 
-  - ID: 211, Type: Instrument, Value: Second Generation Precipitation Radar
-  - ID: 258, Type: Instrument, Value: MagnaProbe
-  - ID: 15, Type: Instrument, Value: Along-Track Scanning Radiometer 2
-  - ID: 466, Type: ScienceKeyword, Value: CLOUD HEIGHT
-  - ID: 117, Type: ScienceKeyword, Value: ASK-A BIOLOGIST
-  - ID: 26, Type: ScienceKeyword, Value: LESSON PLANS
-  - ID: 276, Type: Publication, Value: Assessing Variations in Water Use Efficiency and Linkages with Land-Use Changes Using Three Different Data Sources: A Case Study of the Yellow River, China
-  - ID: 412, Type: Publication, Value: Ecogeographical Potential of the Ambrosia artemisiifolia L. Northward Expansion in European Russia Estimated on the Basis of a Comparison of the Northern Limits …
-  - ID: 50, Type: Publication, Value: Cloud climatologies from the infrared sounders AIRS and IASI: Strengths and applications
-
-Exploring Subgraph for Node ID: 344 (Type: Platform)
-  - ID: 215, Type: Dataset, Value: EMIT L2B Carbon Dioxide Enhancement Data 60 m V001
-  - ID: 363, Type: Dataset, Value: MODIS/Aqua Thermal Anomalies/Fire Daily L3 Global 1km SIN Grid V061
-  - ID: 4539, Type: Dataset, Value: Tropical Ozone Transport Experiment - Vortex Ozone Transport Experiment (TOTE-VOTE) DC-8 Ancillary Data
-  - ID: 69, Type: DataCenter, Value: Canadian Meteorological Centre, Meteorological Service of Canada, Environment Canada
-  - ID: 139, Type: DataCenter, Value: N/A
-  - ID: 85, Type: DataCenter, Value: N/A
-  - ID: 251, Type: Project, Value: ICECAP University of Texas, Antarctica 2016
-  - ID: 214, Type: Project, Value: ARM Enhanced Shortwave Experiment
-  - ID: 292, Type: Project, Value: Pre-IceBridge NASA ATM Suite Antarctica 1997
-  - ID: 98, Type: Platform, Value: 
-  - ID: 215, Type: Platform, Value: 
-  - ID: 360, Type: Platform, Value: GeoEye-1
-  - ID: 386, Type: Instrument, Value: Tropospheric Emission Spectrometer
-  - ID: 363, Type: Instrument, Value: SONIC ANEMOMETER
-  - ID: 69, Type: Instrument, Value: Visible and Infrared Spin Scan Radiometer (METEOSAT Series)
-  - ID: 362, Type: ScienceKeyword, Value: ELECTRIC FIELD
+  - ID: 946, Type: ScienceKeyword, Value: BERYLLIUM-10 ANALYSIS
   - ID: 85, Type: ScienceKeyword, Value: METADATA HANDLING
-  - ID: 373, Type: ScienceKeyword, Value: PRESSURE ANOMALIES
-  - ID: 251, Type: Publication, Value: Statistical and machine learning ensemble modelling to forecast sea surface temperature
-  - ID: 373, Type: Publication, Value: Measurement report: Black carbon properties and concentrations in southern Sweden urban and rural air–the importance of long-range transport
-  - ID: 4247, Type: Publication, Value: Contributions of economic growth, terrestrial sinks, and atmospheric
+  - ID: 548, Type: ScienceKeyword, Value: ENTOPROCTS
+  - ID: 994, Type: Publication, Value: Soil databases and the problem of establishing regional biogeochemical trends
+  - ID: 721, Type: Publication, Value: Significance of the organic aerosol driven climate feedback in the boreal area
+  - ID: 904, Type: Publication, Value: Spatial patterns and key drivers of zooplankton in the north central Indian Ocean
+
+Exploring Subgraph for Node ID: 409 (Type: Platform)
+  - ID: 5961, Type: Dataset, Value: Global Navigation Satellite System (GNSS) Troposphere Zenith Path Delay (ZPD) product from NASA CDDIS
+  - ID: 659, Type: Dataset, Value: CAMEX-4 MIPS MICROWAVE PROFILING RADIOMETER V1
+  - ID: 5145, Type: Dataset, Value: CLPX-Ground: University of Michigan Ground-Based Microwave Radiometer, Version 1
+  - ID: 69, Type: DataCenter, Value: Canadian Meteorological Centre, Meteorological Service of Canada, Environment Canada
+  - ID: 173, Type: DataCenter, Value: Atmospheric Science Data Center
+  - ID: 76, Type: DataCenter, Value: European Meteorological Satellite Organisation
+  - ID: 113, Type: Project, Value: MODIS Airborne Simulator (MAS/eMAS)
+  - ID: 76, Type: Project, Value: Biodiversity Survey of the Cape
+  - ID: 330, Type: Project, Value: International Laser Ranging Service
+  - ID: 180, Type: Platform, Value: 
+  - ID: 291, Type: Platform, Value: University Of Maryland Cessna 402B Research Aircraft
+  - ID: 42, Type: Platform, Value: 
+  - ID: 596, Type: Instrument, Value: Video Ice Particle Sampler
+  - ID: 628, Type: Instrument, Value: Harvard Hydroxyl Experiment
+  - ID: 643, Type: Instrument, Value: 
+  - ID: 986, Type: ScienceKeyword, Value: OXYGEN ISOTOPE ANALYSIS
+  - ID: 842, Type: ScienceKeyword, Value: KAPLAN SST INDEX
+  - ID: 846, Type: ScienceKeyword, Value: PACIFIC WARM POOL
+  - ID: 5252, Type: Publication, Value: Midwest US Croplands Determine Model Divergence in North American Carbon
+  - ID: 4380, Type: Publication, Value: Near real-time deforestation detection in Malaysia and Indonesia using
+  - ID: 858, Type: Publication, Value: Effects of elevated CO2 concentrations on the production and
+
+Exploring Subgraph for Node ID: 173 (Type: Platform)
+  - ID: 582, Type: Dataset, Value: GPM GROUND VALIDATION MICRO RAIN RADAR (MRR) NASA IFLOODS V1
+  - ID: 5985, Type: Dataset, Value: CDDIS SESES MEaSUREs products plate boundary aseismic transient deformation 
+  - ID: 4072, Type: Dataset, Value: NARSTO EPA_SS_LOS_ANGELES Aerodynamic Particle Size Data
+  - ID: 113, Type: DataCenter, Value: N/A
+  - ID: 42, Type: DataCenter, Value: MODIS Characterization Support Team (MCS), Biospheric Sciences Laboratory, Earth Sciences Division, Science and Exploration Directorate, Goddard Space Flight Center, NASA
+  - ID: 152, Type: DataCenter, Value: N/A
+  - ID: 152, Type: Project, Value: Korea United States Air Quality Study
+  - ID: 71, Type: Project, Value: Earth Observing System (EOS), TERRA
+  - ID: 76, Type: Project, Value: Biodiversity Survey of the Cape
+  - ID: 113, Type: Platform, Value: 
+  - ID: 76, Type: Platform, Value: METEOSAT-7
+  - ID: 69, Type: Platform, Value: Ground Stations
+  - ID: 608, Type: Instrument, Value: Vaisala HUMICAP Humidity and Temperature Probe HMP155
+  - ID: 732, Type: Instrument, Value: C-Band Synthetic Aperture Radar
+  - ID: 779, Type: Instrument, Value: SMAP L-Band Radar
+  - ID: 843, Type: ScienceKeyword, Value: NINO 3 INDEX
+  - ID: 830, Type: ScienceKeyword, Value: SEA LEVEL RISE
+  - ID: 643, Type: ScienceKeyword, Value: ANGIOSPERMS (FLOWERING PLANTS)
+  - ID: 5961, Type: Publication, Value: Characterizing ecosystem change in wetlands using dense earth
+  - ID: 5252, Type: Publication, Value: Midwest US Croplands Determine Model Divergence in North American Carbon
+  - ID: 5376, Type: Publication, Value: Difference between cloud top height and storm height for heavy rainfall using TRMM measurements
